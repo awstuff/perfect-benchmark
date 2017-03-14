@@ -1,6 +1,6 @@
 {
   "name": "perfect-benchmark",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The only Node.js benchmarking library you'll need",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
     "benchmarking",
     "performance"
   ],
-  "author": "Adrian Wirth <adrian.wirth@yahoo.de>",
+  "author": "Adrian Wirth <dev@adrianwirth.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/awstuff/perfect-benchmark/issues"
